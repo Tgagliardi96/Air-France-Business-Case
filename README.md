@@ -26,9 +26,9 @@ dropped. After having solved typos, variables useful for the analysis were conve
     exposition in the search engines is reduced only by 1%.
     A similar thing happens when we consider the bidding strategy in the search engines. The odds of business success are reduced only by 5%.
     
-    In conclusion, the total volume of bookings. This is the most interesting finding in the analysis. In fact, for every additional customer that Air France is able to
-    attract to its channels, the odds for more bookings increase only by 1%. What does this means? It means that in this moment Air France is stuck with a certain number
-    of customers. Consequently, if the strategy changes, shifting from search engines to its own website, Air France will probably not increase the amount of customers.
-    Probably, the company will reduce some costs, especially those related to the clicks and the bid strategy, but it will remain bound to the fidelity of its customers.
-    If the company wants to move from here, it has to maximize the more independence given by this new strategy to invest in new solutions to increase the number of   
-    customers.
+    In conclusion, the total volume of bookings. This is the most interesting finding in the analysis. In fact, for every additional customer that Air France is able 
+    to attract to its channels, the odds for more bookings increase only by 1%. What does this means? It means that in this moment Air France is stuck with a 
+    certain number of customers. Consequently, if the strategy changes, shifting from search engines to its own website, Air France will probably not increase 
+    the amount of customers. Probably, the company will reduce some costs, especially those related to the clicks and the bid strategy, but it will remain bound 
+    to the fidelity of its customers. If the company wants to move from here, it has to maximize the more independence given by this new strategy to invest in 
+    new solutions to increase the number of customers.
